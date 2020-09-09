@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1056537457231",
+    "firebase_url": "https://friendlyeats-edgar.firebaseio.com",
+    "project_id": "friendlyeats-edgar",
+    "storage_bucket": "friendlyeats-edgar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056537457231:android:161dc34984ff97edec303a",
+        "android_client_info": {
+          "package_name": "co.trelly.friendlyeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056537457231-0hflgbpqjbb9h1n5oc5ummri7oiosmhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXxCfamS5wqgsOx295oKbNbDwYMd_QRkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056537457231-0hflgbpqjbb9h1n5oc5ummri7oiosmhc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1056537457231-l3e8ic93s14e1adluuepuqeopclpjeke.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.trelly.friendlyeats"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
